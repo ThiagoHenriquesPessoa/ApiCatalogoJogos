@@ -27,3 +27,9 @@ E:\DIO\MATERIAL DIO\.net\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ApiC
 E:\DIO\MATERIAL DIO\.net\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ref\ApiCatalogoJogos.dll
 E:\DIO\MATERIAL DIO\.net\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.pdb
 E:\DIO\MATERIAL DIO\.net\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.genruntimeconfig.cache
+E:\DIO\MATERIAL DIO\.net\ApiCatalogoJogos\ApiCatalogoJogos\bin\Debug\net5.0\System.Data.SqlClient.dll
+E:\DIO\MATERIAL DIO\.net\ApiCatalogoJogos\ApiCatalogoJogos\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\DIO\MATERIAL DIO\.net\ApiCatalogoJogos\ApiCatalogoJogos\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\DIO\MATERIAL DIO\.net\ApiCatalogoJogos\ApiCatalogoJogos\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\DIO\MATERIAL DIO\.net\ApiCatalogoJogos\ApiCatalogoJogos\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\DIO\MATERIAL DIO\.net\ApiCatalogoJogos\ApiCatalogoJogos\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
